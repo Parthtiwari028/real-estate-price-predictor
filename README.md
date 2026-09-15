@@ -6,6 +6,17 @@ A Machine Learning-based web application that predicts residential property pric
 
 ---
 
+## 📊 Key Results
+
+| Metric | Improved Random Forest |
+|---|---:|
+| R² Score | **0.7758** |
+| MAE | **₹19.18 Lakhs** |
+| RMSE | **₹39.34 Lakhs** |
+| Final Dataset | **9,863 properties** |
+
+---
+
 ## 📌 Project Overview
 
 The **Real Estate Price Predictor & Investment Analyzer** uses regression-based Machine Learning techniques to estimate residential property prices.
